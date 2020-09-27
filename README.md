@@ -1,6 +1,10 @@
 # Checkers
 A two player Checkers game using only React!
 
+This is a fun little variant where the pieces are only placed in the first two rows of each player. 
+Head over here to try the game out yourself => https://fenil25.github.io/Checkers-master/src/demos/00_template/indexk.html
+
+
 
 <br />
 <h2>A Little Preview Of How the game works!</h2>
